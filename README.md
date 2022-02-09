@@ -15,6 +15,13 @@ power designer
 
 Spring Boot
 
+上网搜索：如何使用 IDEA 创建 SpringBoot 项目。
+提示：创建过程十分简单，但是要注意选择一些自己需要的组件，并且创建过程会比较漫长。
+
 ## 前端
 
 Vue
+
+上网搜索：使用 npm 创建 vue 项目。
+提示：需安装 npm，vue-cli.
+npm 的安装必须十分小心，很容易安装失败。
